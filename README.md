@@ -1,4 +1,4 @@
-#Rock Paper Scissors
+# [Rock Paper Scissors](https://rock-paper-scissors-karmugil.netlify.app/)
 
 This is a web app that was created using React and react hooks to play rock-paper-scissors with the computer when ever I feel bored.
 
@@ -6,4 +6,4 @@ This is a web app that was created using React and react hooks to play rock-pape
 Live Link:
 (You can find the link to the live app here)
 
-https://rock-paper-scissors-karmugil.netlify.app/
+[https://rock-paper-scissors-karmugil.netlify.app/](https://rock-paper-scissors-karmugil.netlify.app/)
